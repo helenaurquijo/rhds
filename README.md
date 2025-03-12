@@ -36,3 +36,14 @@ Rscript scripts/download-pan-cancer-clinical.r
 Rscript scripts/extract-data.r
 ```
 
+### 3. Clean clinical data
+
+```
+Rscript scripts/clean-clinical.r
+```
+
+### 4. Predict proteins
+
+```
+Rscript scripts/predict-proteins.r
+```
