@@ -53,3 +53,10 @@ Rscript scripts/predict-proteins.r
 ```
 Rscript scripts/combine.r
 ```
+
+### 6. Analyse data
+
+```
+Rscript scripts/analysis.r
+```
+
