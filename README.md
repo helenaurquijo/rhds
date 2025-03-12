@@ -28,3 +28,11 @@ renv::restore()
 bash scripts/download-data.sh
 Rscript scripts/download-pan-cancer-clinical.r
 ```
+
+
+### 2. Extract / clean relevant data
+
+```
+Rscript scripts/extract-data.r
+```
+
