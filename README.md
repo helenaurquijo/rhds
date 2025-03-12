@@ -47,3 +47,9 @@ Rscript scripts/clean-clinical.r
 ```
 Rscript scripts/predict-proteins.r
 ```
+
+### 5. Combine data
+
+```
+Rscript scripts/combine.r
+```
